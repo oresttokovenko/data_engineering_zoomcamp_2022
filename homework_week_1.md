@@ -25,6 +25,17 @@ How many taxi trips were there on January 15?
 
 Consider only trips that started on January 15.
 
+```
+SELECT date_trunc('day', tpep_pickup_datetime) AS day, COUNT(index)
+FROM yellow_taxi_data
+GROUP BY day
+ORDER BY day desc;
+```
+
+```
+2021-01-15 00:00:00.000000 - 53024
+```
+
 ## Question 4. Average
 
 Find the largest tip for each day.
