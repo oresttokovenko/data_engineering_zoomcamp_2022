@@ -35,7 +35,7 @@ On which day it was the largest tip in January?
 What was the most popular destination for passengers picked up
 in central park on January 14?
 
-## Question 6.
+## Question 6. Pickup-Dropoff
 
 What's the pickup-dropoff pair with the largest
 average price for a ride (calculated based on `total_amount`)?
