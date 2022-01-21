@@ -1,1 +1,1 @@
-# data_engineering_zoomcamp_2022
+# Homework for the Data Engineering Zoomcamp by DataTalksClub
