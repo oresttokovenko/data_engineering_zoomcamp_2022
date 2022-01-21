@@ -1,7 +1,4 @@
-## Week 1 Homework
-
-In this homework we'll prepare the environment
-and practice with terraform and SQL
+# Week 1 Homework
 
 ## Question 1. Google Cloud SDK
 
