@@ -24,7 +24,12 @@ After that, run
 Apply the plan and copy the output (after running `apply`) to the form
 
 ```
-placeholder
+google_bigquery_dataset.dataset: Creating...
+google_storage_bucket.data-lake-bucket: Creating...
+google_bigquery_dataset.dataset: Creation complete after 3s [id=projects/phrasal-fire-338803/datasets/trips_data_all]
+google_storage_bucket.data-lake-bucket: Creation complete after 3s [id=dtc_data_lake_phrasal-fire-338803]
+
+Apply complete! Resources: 2 added, 0 changed, 0 destroyed.
 ```
 
 ## Question 3. Count records
